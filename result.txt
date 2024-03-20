@@ -1,0 +1,3 @@
+Stock_96_96_Transformer_custom_ftM_sl30_ll0_pl1_dm512_nh8_el2_dl1_df2048_fc3_ebtimeF_dtTrue_'Exp'_0  
+mse:0.026824314147233963, mae:0.13310560584068298
+
